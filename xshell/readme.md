@@ -1,0 +1,1 @@
+https://github.com/Rodert/software/releases/download/xshell/XshellPlus_v7.0.0023r.7z
