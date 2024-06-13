@@ -8,6 +8,9 @@
 -->
 # software
 
+[点击国内阅读](https://gitee.com/rodert/software)
+
+
 ## 使用必读
 
 过气但不过时的软件，**免费版 免费版 免费版**
