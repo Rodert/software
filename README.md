@@ -8,7 +8,9 @@
 -->
 # software
 
-[点击国内阅读](https://gitee.com/rodert/software)
+ [GitHub](https://github.com/Rodert/software) | [Gitee](https://gitee.com/rodert/software)
+
+
 
 
 ## 使用必读
